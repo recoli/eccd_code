@@ -3,7 +3,7 @@
  *  Copyright (C) 2015 Xin Li <lixin.reco@gmail.com>                         *  
  *                                                                           *
  *  Filename:  funct.h                                                       *
- *  Function:  functions for memory handeling and matri solving              *
+ *  Function:  functions for memory handeling and matrix solving             *
  *  Updated:   2015-Mar-24                                                   *
  *  License:   GNU Public License, version 2                                 *
  *                                                                           *  
